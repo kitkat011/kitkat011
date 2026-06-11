@@ -45,7 +45,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kitkat011&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkat011&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=kitkat011&icon=6&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cipheredpsyche&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C85A87&height=100&section=footer"/>
